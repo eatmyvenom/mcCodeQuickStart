@@ -1,0 +1,22 @@
+{
+  "name": "mc-code-quick-start",
+  "version": "0.0.0",
+  "description": "A tool to help you read minecraft source code",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eatmyvenom/mcCodeQuickStart.git"
+  },
+  "keywords": [
+    "minecraft"
+  ],
+  "author": "EatMyVenom",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/eatmyvenom/mcCodeQuickStart/issues"
+  },
+  "homepage": "https://github.com/eatmyvenom/mcCodeQuickStart#readme"
+}
